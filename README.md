@@ -6,4 +6,4 @@
 - Screenshot:
 
 ![](http://on77mpbwd.bkt.clouddn.com/scalesbalance.png)
-![](http://on77mpbwd.bkt.clouddn.com/scales.png)
+![](http://on77mpbwd.bkt.clouddn.com/scalesexample.png)
